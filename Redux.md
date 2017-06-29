@@ -76,7 +76,3 @@
    ```
 
    ​
-
-
-
-![redux-flow](/Users/jing/notes/redux-flow.jpg)
