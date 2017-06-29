@@ -1,6 +1,5 @@
-title: Promise
-desc: Promise
----
+#####Promise
+
 
 ##### 语法
 
